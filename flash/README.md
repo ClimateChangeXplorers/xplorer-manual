@@ -52,7 +52,7 @@ the BME680 sensor).
 **PRINTING**
 
 * the radiation shield design 3d print files can be found in the
-  [`/build/stl/atmos`](../build/build/stl/atmos) page. If you need to
+  [`/build/stl/atmos`](https://github.com/ClimateChangeXplorers/xplorer-manual/tree/master/build/stl/atmos) page. If you need to
   print, you will need to follow the instructions there to print the
   housing.
 
@@ -64,18 +64,40 @@ the BME680 sensor).
   flashing requirements and procedures.
 
 ### UV 
+
+Because the UV measurement is part of the Atmos node, the code already
+includes the capability to capture and transmit measurements. It is
+integrated in to the
+[esp32-atomlite-arduino-atmos-node repository](https://github.com/NCAR/esp32-atomlite-arduino-atmos-node)
+and hence no other changes or files are necessary to flash once that
+file has been uploaded to the microcontroller.
+
+
+## Hydro Node
  
- Radiation Shield and UV Temperature, Humidity, Presure, VOC, and UV
+The hydro node is designed to collected and transmit precipitation
+measurements.  
 
-https://github.com/NCAR/esp32-atomlite-arduino-atmos-node
+**PRINTING** 
 
-### Hydro Node: Precipitation
+* the rain gauge design 3d print files can be found in the
+  [`/build/stl/hydro`](https://github.com/ClimateChangeXplorers/xplorer-manual/tree/master/build/stl/hydro)
+  page. If you need to print, you will need to follow the instructions
+  there to print the housing.
 
-https://github.com/NCAR/esp32-atomlite-arduino-hydro-node
+**FLASHING**
 
-### AeroNode: Wind Vane & Anemometer
-Wind speed and direction
+* the code to flash the node can be found in the
+  [esp32-atomlite-arduino-hydro-node repository](https://github.com/NCAR/esp32-atomlite-arduino-hydro-node).
+  You will to follow the instructions there to understand the Arduino
+  flashing requirements and procedures.
 
-coming soon 
+## Aero Node
 
+The aero node is designed to collect wind vane & anemometer wind speed
+and direction.
 
+<img width="360" alt="atmos node"
+src="https://raw.githubusercontent.com/ClimateChangeXplorers/ClimateChangeXplorers.github.io/master/img/hydro-node.jpg"/>
+
+Instructions for printing and flashing are forthcoming.
