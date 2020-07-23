@@ -42,6 +42,26 @@ simultaneously). These parts can be found in the
 
 ### Radiation Shield
 
+<img width="360" alt="atmos node"
+src="https://raw.githubusercontent.com/ClimateChangeXplorers/ClimateChangeXplorers.github.io/master/img/atmos-node.jpg"/>
+
+The radiation shield sensor captures the following measurements:
+temperature, humidity, barometric pressure, and optionally VOC (if using
+the BME680 sensor).
+
+**PRINTING**
+
+* the radiation shield design 3d print files can be found in the
+  [`/build/stl/atmos`](../build/build/stl/atmos) page. If you need to
+  print, you will need to follow the instructions there to print the
+  housing.
+
+**FLASHING**
+
+* the code to flash the node can be found in the
+  [esp32-atomlite-arduino-atmos-node repository](https://github.com/NCAR/esp32-atomlite-arduino-atmos-node).
+  You will to follow the instructions there to understand the Arduino
+  flashing requirements and procedures.
 
 ### UV 
  
