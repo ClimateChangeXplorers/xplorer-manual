@@ -3,7 +3,7 @@
 
 Each station node is build atop a microcontroller, where each
 microcontroller is connected to one or more sensors either directly or
-by [Grove hubs](https://www.seeedstudio.com/Grove-I2C-Hub.html).
+by [Grove hubs](https://www.seeedstudio.com/Grove-I2C-Hub.html). 
 
 The CCX system is designed to be used with the [m5Stack Atom Lite](https://m5stack.com/collections/m5-core/products/atom-lite-esp32-development-kit)
 ESP32-Pico based microcontroller.  
@@ -15,13 +15,37 @@ communications and initialization functions of each node.
 
 This core library can found at the following repository. It should be
 installed in your `Arduiono/libraries` directory and once installed, you
-may use it by the `#include "IoTwx.h" directive.
+may use it by the `#include "IoTwx.h"` directive.
 
 
 * [https://github.com/NCAR/esp32-atomlite-arduino-iotwx](https://github.com/NCAR/esp32-atomlite-arduino-iotwx)
 
-### Atmos Node: Radiation Shield and UV
-Temperature, Humidity, Presure, VOC, and UV
+Please see the
+[parts list](https://drive.google.com/file/d/1Hnn0Ms2DzVQgRFmGBpLQ9W2NGEz2gopc/view?usp=sharing)
+for the microcontroller, sensors and cables required or recommended to
+build and connect a base system.
+
+
+## Atmos Node 
+
+The Atmos node is comprised of two sensors and two 3d-printed housing
+units. The first sensor houses the atmospheric conditions for air
+temperature, humidity and barometric pressure. It can be fitted with the
+[Seeedstudio BME280 Grove](https://www.seeedstudio.com/Grove-BME280-Environmental-Sensor-Temperature-Humidity-Barometer.html)
+environmental sensor, or if you would like to obtain aggregate VOC
+measurements, you can fit the housing with the
+[BME680 Grove](https://www.seeedstudio.com/Grove-Temperature-Humidity-Pressure-and-Gas-Sensor-for-Arduino-BME680.html)
+sensor. The code is designed to work with both sensors (but not
+simultaneously). These parts can be found in the
+[parts list](https://drive.google.com/file/d/1Hnn0Ms2DzVQgRFmGBpLQ9W2NGEz2gopc/view?usp=sharing).
+
+
+### Radiation Shield
+
+
+### UV 
+ 
+ Radiation Shield and UV Temperature, Humidity, Presure, VOC, and UV
 
 https://github.com/NCAR/esp32-atomlite-arduino-atmos-node
 
