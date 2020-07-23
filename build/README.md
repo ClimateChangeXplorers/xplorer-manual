@@ -7,7 +7,12 @@ src="https://github.com/ClimateChangeXplorers/ClimateChangeXplorers.github.io/ra
 Before getting started, you should consult the complete list of parts
 and hardware that can be found at:
 
-* See the [google spreadsheet](https://drive.google.com/file/d/1Hnn0Ms2DzVQgRFmGBpLQ9W2NGEz2gopc/view?usp=sharing)
+* See the
+  [Google spreadsheet](https://drive.google.com/file/d/1Hnn0Ms2DzVQgRFmGBpLQ9W2NGEz2gopc/view?usp=sharing)
+  for the full, up-to-date list of _non-printed_ parts for building a
+  complete station. The vast majority of parts can be found on Amazon,
+  through online electronics distributors and through your local
+  hardware store.
 
 **Note:** the base case build has quantities preset to 1 item. Also,
 **alternative power options** are also listed in this document for users
