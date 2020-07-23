@@ -97,8 +97,10 @@ measurements.
 
 ## Aero Node
 
+<img width="360" alt="aero node"
+src="https://github.com/ClimateChangeXplorers/ClimateChangeXplorers.github.io/raw/master/img/wind-node.jpg"/>
+
 The aero node is designed to collect wind vane & anemometer wind speed
 and direction.
 
-
-Instructions for printing and flashing are forthcoming.
+* Instructions for printing and flashing are forthcoming.
