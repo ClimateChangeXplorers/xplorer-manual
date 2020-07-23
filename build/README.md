@@ -1,4 +1,6 @@
 # Building Your Station
+<img width="360" alt="atmos node"
+src="https://github.com/ClimateChangeXplorers/ClimateChangeXplorers.github.io/raw/master/img/station-full.jpg"/>
 
 **PARTS LIST**
 
