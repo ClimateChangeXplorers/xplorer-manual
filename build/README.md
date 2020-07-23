@@ -1,13 +1,21 @@
+# Building Your Station
 
+**PARTS LIST**
 
-## Parts List
-
-The complete list of parts and hardware can be found at:
+Before getting started, you should consult the complete list of parts
+and hardware that can be found at:
 
 * See the [google spreadsheet](https://drive.google.com/file/d/1Hnn0Ms2DzVQgRFmGBpLQ9W2NGEz2gopc/view?usp=sharing)
 
-**Note:** the base case build has quantities preset to 1 item.  Also, **alternative power options**  are also listed in this document for users interested in further customizing their station to specific power needs.
+**Note:** the base case build has quantities preset to 1 item. Also,
+**alternative power options** are also listed in this document for users
+interested in further customizing their station to specific power needs.
 
+If you only wish to do tabletop testing, you will only need to follow
+the [flash instructions](https://github.com/ClimateChangeXplorers/xplorer-manual/tree/master/flash) for the microcontroller and then proceed to
+the [tabletop testing](#skeletontabletop-testing). This will eliminate
+the need for making wiring bundles, constructing a PVC frame or printing
+the 3d-printed housing.
 
 ## Framing
 
