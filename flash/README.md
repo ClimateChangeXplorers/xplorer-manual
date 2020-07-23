@@ -74,6 +74,9 @@ file has been uploaded to the microcontroller.
 
 
 ## Hydro Node
+
+<img width="360" alt="hydro node"
+src="https://raw.githubusercontent.com/ClimateChangeXplorers/ClimateChangeXplorers.github.io/master/img/hydro-node.jpg"/>
  
 The hydro node is designed to collected and transmit precipitation
 measurements.  
@@ -97,7 +100,5 @@ measurements.
 The aero node is designed to collect wind vane & anemometer wind speed
 and direction.
 
-<img width="360" alt="atmos node"
-src="https://raw.githubusercontent.com/ClimateChangeXplorers/ClimateChangeXplorers.github.io/master/img/hydro-node.jpg"/>
 
 Instructions for printing and flashing are forthcoming.
