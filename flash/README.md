@@ -35,6 +35,7 @@ There are a few other steps you will need to complete:
 * install the required ESP32 Pico / M5 Stack Atom lite boards; a comprehensive instruction set is [here](https://docs.m5stack.com/#/en/arduino/arduino_development)
 * install the [arduino-esp32fs-plugin](https://github.com/me-no-dev/arduino-esp32fs-plugin) that will allow SPIFFS file uploads to ESP32 boards
 * install the following libraries through the Arduino IDE:
+   * MQTT library from 256dpi [https://github.com/256dpi/arduino-mqtt](https://github.com/256dpi/arduino-mqtt)
    * SeeedStudio VEML6070 library [https://github.com/Seeed-Studio/Seeed_VEML6070](https://github.com/Seeed-Studio/Seeed_VEML6070)
    * SeeedStudio BME280 library [https://github.com/Seeed-Studio/Grove_BME280](https://github.com/Seeed-Studio/Grove_BME280)
    * SeeedStudio BME680 library [https://github.com/Seeed-Studio/Seeed_BME680](https://github.com/Seeed-Studio/Seeed_BME680)
