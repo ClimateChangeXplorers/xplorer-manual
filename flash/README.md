@@ -36,8 +36,8 @@ There are a few other steps you will need to complete:
 * install the [arduino-esp32fs-plugin](https://github.com/me-no-dev/arduino-esp32fs-plugin) that will allow SPIFFS file uploads to ESP32 boards
 * install the following libraries through the Arduino IDE:
    * SeeedStudio VEML6070 library [https://github.com/Seeed-Studio/Seeed_VEML6070](https://github.com/Seeed-Studio/Seeed_VEML6070)
-   * SeeedStudio BME280 library [https://github.com/seeedstudio/Grove_BME280](https://github.com/Seeed-Studio/Grove_BME280)
-   * SeeedStudio BME680 library [https://github.com/seeedstudio/Seeed_BME680](https://github.com/Seeed-Studio/Seeed_BME680)
+   * SeeedStudio BME280 library [https://github.com/Seeed-Studio/Grove_BME280](https://github.com/Seeed-Studio/Grove_BME280)
+   * SeeedStudio BME680 library [https://github.com/Seeed-Studio/Seeed_BME680](https://github.com/Seeed-Studio/Seeed_BME680)
    * ArduinoJson library [https://github.com/bblanchon/ArduinoJson](https://github.com/bblanchon/ArduinoJson)
    * FastLED library [https://github.com/FastLED/FastLED](https://github.com/FastLED/FastLED)
    * NTPClient library [https://github.com/arduino-libraries/NTPClient](https://github.com/arduino-libraries/NTPClient)
