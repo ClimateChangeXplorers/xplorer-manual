@@ -7,6 +7,10 @@ and code that are necessary to construct a fully operational node.
 
 * [atmos node files](./atmos) are available for the radiation shield
 * [hydro node files](./hydro) are available for the tipping bucket
+* [aero node files](./aero) are available for the wind vane and anemometer 
+* [solar assembly files](./solar) are available for the solar panel assembly
+* [pvc connectors files](./pvc) are available for the pvc connectors
+
 
 # Acknowledgements
 
