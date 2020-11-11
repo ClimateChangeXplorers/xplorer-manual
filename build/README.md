@@ -24,6 +24,17 @@ the [tabletop testing](#skeletontabletop-testing). This will eliminate
 the need for making wiring bundles, constructing a PVC frame or printing
 the 3d-printed housing.
 
+## 3D-Printing
+
+All parts can be found in the [stl](./stl) folder and in conjection 
+with the station assembly instructions.
+
+Reference stations have been produced with PLA+ material, but
+ABS and other materials may be used, provided you have 
+enough expertise using them.
+
+
+
 ## Framing
 
 
