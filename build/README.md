@@ -32,6 +32,11 @@ the 3d-printed housing.
 
 ## Station Assembly
 
+You can find the various assembly instructions in the provided PDF files:
+
+* [Aero Node Assembly](./Aero_Node_Assembly.pdf) instruction set
+* [Hydro Node Assembly](./Hydro_Node_Assembly.pdf) instruction set
+* [Atmos Node Assembly](./Atmost_Node_Assembly) instruction set
 
 ## Skeleton/Tabletop Testing
 
