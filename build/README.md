@@ -47,7 +47,7 @@ You can find the various assembly instructions in the provided PDF files:
 
 * [Aero Node Assembly](./Aero_Node_Assembly.pdf) instruction set
 * [Hydro Node Assembly](./Hydro_Node_Assembly.pdf) instruction set
-* [Atmos Node Assembly](./Atmost_Node_Assembly) instruction set
+* [Atmos Node Assembly](./Atmos_Node_Assembly.pdf) instruction set
 
 ## Skeleton/Tabletop Testing
 
